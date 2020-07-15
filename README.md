@@ -16,7 +16,7 @@ A curated list of current research in visual analystics focusing on types of inc
 #### Tools and Software for Working With Uncertainty
 -[GraphTrail: Analyzing Large Multivariate, Heterogeneous Networks while Supporting Exploration History](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/graphtrail_chi2012.pdf): software that enables exploratory visual analysis of networks.
 
--[](https://innovis.cpsc.ucalgary.ca/supplemental/MyBrush/2018_VIS_mybrush.pdf): MyBrush is a tool used for brushing and linking in 
+-[MyBrush: Brushing and Linking with Personal Agency](https://innovis.cpsc.ucalgary.ca/supplemental/MyBrush/2018_VIS_mybrush.pdf): MyBrush is a tool used for brushing and linking for visual analytics.
 
 #### Cognition of Incompleteness
 
