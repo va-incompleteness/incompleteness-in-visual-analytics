@@ -28,7 +28,7 @@ A curated list of current research in visual analystics focusing on types of inc
 
 - [Visual Exploration of Multivariate Graphs ](http://vis.berkeley.edu/files/chi06/Wattenberg_p811.pdf): A tool for exploring graphs with mulitple layers of complexity.
 
--[Interactive visualization for missing values, time series, and areal data](https://pdfs.semanticscholar.org/f8b5/26fb936fc25ca10c004deb4db667c29f9c5a.pdf): An analysis of specific data visualizations and a new R package for visualizing missing data.
+- [Interactive visualization for missing values, time series, and areal data](https://pdfs.semanticscholar.org/f8b5/26fb936fc25ca10c004deb4db667c29f9c5a.pdf): An analysis of specific data visualizations and a new R package for visualizing missing data.
 
 #### Cognition of Incompleteness
 
