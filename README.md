@@ -5,7 +5,7 @@ A curated list of current research in visual analystics focusing on types of inc
 
 #### Imputation Methodology
 
-[Effects of Missing Data in Social Networks](https://www.semanticscholar.org/paper/Effects-of-missing-data-in-social-networks-Kossinets/cbf9f900faee20d716ecc288eedc48e6e0fc04ba): An exploration of how different missingness mechanisms impact social networks (and metrics!).
+- [Effects of Missing Data in Social Networks](https://www.semanticscholar.org/paper/Effects-of-missing-data-in-social-networks-Kossinets/cbf9f900faee20d716ecc288eedc48e6e0fc04ba): An exploration of how different missingness mechanisms impact social networks (and metrics!).
 
 #### Incompleteness is Visualized With Color
 
