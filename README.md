@@ -7,6 +7,8 @@ A curated list of current research in visual analystics focusing on types of inc
 
 #### Incompleteness is Visualized With Color
 
+#### Visualizing Incomplete Relationships
+
 # Human-Centric Research
 
 #### Brushing and Linking Research
@@ -18,9 +20,14 @@ A curated list of current research in visual analystics focusing on types of inc
 
 -[MyBrush: Brushing and Linking with Personal Agency](https://innovis.cpsc.ucalgary.ca/supplemental/MyBrush/2018_VIS_mybrush.pdf): MyBrush is a tool used for brushing and linking for visual analytics.
 
+-[VisLink: Revealing Relationships Amongst Visualizations](http://vialab.science.uoit.ca/portfolio/vislink-revealing-relationships-amongst-visualizations)
+
 #### Cognition of Incompleteness
 
 - [Why Authors Don't Visualize Uncertainty](http://users.eecs.northwestern.edu/~jhullman/Value_of_Uncertainty_Vis_CR.pdf): a statistical study on the resaons why data practitioners choose not to visualize uncertainty.
 
 -[Decision-Making Under Uncertainty in Research Synthesis: Designing for the Garden of Forking Paths](https://arxiv.org/pdf/1901.02957.pdf): a model and study of decision making, conceptualizing the process as a "garden of forking paths." 
+
+#### Multi-Dimensional Visual Analytics
+-[Visual Abstraction and Exploration of Multi-class Scatterplots](https://ieeexplore.ieee.org/document/6875982): a tool to aid visualization of multi-dimensional scatterplots, usually prone to problems in visual analysis.
 
