@@ -15,6 +15,8 @@ A curated list of current research in visual analystics focusing on types of inc
 
 - [Exploring incomplete data using visualization techniques](https://link.springer.com/article/10.1007/s11634-011-0102-y): Researchers explore the relationship between incomplete data and the visualizations they produce in the VIM package.
 
+### Machine Learning in Visual Analytics
+- [NNVA: Neural Network Assisted Visual Analysis of Yeast Cell Polarization Simulation](https://www.semanticscholar.org/paper/NNVA%3A-Neural-Network-Assisted-Visual-Analysis-of-Hazarika-Li/d424d2a1585d49eb52fb3aae3168b000f5992aad): Machine learning in visual analytics to simulate the production of yeast cells.
 # Human-Centric Research
 
 #### Brushing and Linking Research
