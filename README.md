@@ -41,3 +41,7 @@ A curated list of current research in visual analystics focusing on types of inc
 #### Multi-Dimensional Visual Analytics
 - [Visual Abstraction and Exploration of Multi-class Scatterplots](https://ieeexplore.ieee.org/document/6875982): a tool to aid visualization of multi-dimensional scatterplots, usually prone to problems in visual analysis.
 
+#### Visual Analytics and the Arts 
+
+- [Designing Visual Guides for Casual Listeners of Live Orchestral Music](https://vimeo.com/368187805): Researchers break down several dimensions of how to listen to classical music and explore the best way to present their findings to casual classical music goers.
+
