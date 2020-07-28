@@ -41,7 +41,16 @@ A curated list of current research in visual analystics focusing on types of inc
 #### Multi-Dimensional Visual Analytics
 - [Visual Abstraction and Exploration of Multi-class Scatterplots](https://ieeexplore.ieee.org/document/6875982): a tool to aid visualization of multi-dimensional scatterplots, usually prone to problems in visual analysis.
 
-#### Visual Analytics and the Arts 
+#### Visual Analytics and the Arts, Sports, etc.
 
 - [Designing Visual Guides for Casual Listeners of Live Orchestral Music](https://vimeo.com/368187805): Researchers break down several dimensions of how to listen to classical music and explore the best way to present their findings to casual classical music goers.
+
+- [scenery: Flexible Virtual Reality Visualization on the Java VM](https://arxiv.org/pdf/1906.06726.pdf): Virtual reality and visual analytics combine in an interactive setting.
+
+- [ForVizor: Visualizing Spatio-Temporal Team Formations in Soccer](https://pubmed.ncbi.nlm.nih.gov/30136977/): Visual analysis of spatio-temporal team formations.
+
+- [Art, Affect and Color: Creating Engaging Expressive Scientific Visualization](https://sciviscolor.org/wp-content/uploads/sites/14/2018/10/art-affect-color-opt.pdf): Researchers explore the relationships between color and affect in an interesting paper focusing on the artistic elements of visualizations.
+
+
+
 
